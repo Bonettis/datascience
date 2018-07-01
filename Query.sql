@@ -1,0 +1,1 @@
+select * from cad_filial where codfil = '001'
