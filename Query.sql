@@ -1,1 +1,5 @@
-select * from cad_filial where codfil = '001'
+use master
+go
+
+select * from sys.objects
+go
